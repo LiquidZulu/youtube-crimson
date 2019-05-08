@@ -8,3 +8,7 @@ To compile a new CSS build.bat can be run if NodeJS is installed or if NodeJS is
 
 # Applying Theme to YouTube
 You can use an extension to load .css/css.css with youtube. I reccomend Enhancer for YouTube, it allows for loading of custom CSS & JS.
+
+
+# Installation
+Extract `YT SCSS.zip` anywhere and follow the above steps, this program is completely self contained.
